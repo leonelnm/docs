@@ -10,7 +10,7 @@
 [Docker](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
+{% content-ref url="hibernate/hibernate" %}
 [Hibernate](hibernate/hibernate)
 {% endcontent-ref %}
 
