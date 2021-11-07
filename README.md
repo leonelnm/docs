@@ -1,16 +1,8 @@
-# Home
+# Básico
 
-## Contenido
+## Abrir nueva Activity
 
-{% content-ref url="broken-reference" %}
-[Android](broken-reference)
-{% endcontent-ref %}
+```java
 
-{% content-ref url="broken-reference" %}
-[Docker](broken-reference)
-{% endcontent-ref %}
 
-{% content-ref url="hibernate/hibernate" %}
-[Hibernate](hibernate/hibernate)
-{% endcontent-ref %}
-
+```

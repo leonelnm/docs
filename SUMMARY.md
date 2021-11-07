@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Home](README.md)
-
 ## Android
-* [Básico](android/android-basics.md)
+
+* [Básico](README.md)
 
 ## Hibernate
 
@@ -13,4 +12,3 @@
 ## Docker
 
 * [Introducción](docker/docker.md)
-
